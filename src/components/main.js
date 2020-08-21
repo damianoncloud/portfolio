@@ -3,7 +3,6 @@ import { Switch, Route } from 'react-router-dom';
 import LandingPage from './landingpage.js';
 import AboutMe from './aboutme.js';
 import Contact from './contact';
-import Project from './projects';
 import Resume from './resume';
 import Projects from './projects';
 
